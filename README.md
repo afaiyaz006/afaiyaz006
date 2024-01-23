@@ -1,4 +1,4 @@
-
+👋 Hi there! I'm A.Faiyaz, a recent Computer Science graduate passionate about coding and building innovative solutions. Welcome to my GitHub repository! 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-faiyaz-951797197) 
 

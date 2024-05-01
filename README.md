@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web development
+🌱 I’m currently learning looking for jobs.
 
 
 ## 🌐 Socials:

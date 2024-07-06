@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently looking for jobs.
+
+🚀 I’m currently exploring ML, Gen AI, LLMs, etc.
 
 
 ## 🌐 Socials:

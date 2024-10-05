@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 I’m currently exploring ML, Gen AI, LLMs, etc.
+🚀 Currently looking for jobs
 
 
 ## 🌐 Socials:

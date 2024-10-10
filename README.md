@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-🚀 Currently looking for jobs
+🚀 Currently learning nextjs.
+❤️‍🔥 Grinding coding problems or atleast trying to.
 
 
 ## 🌐 Socials:

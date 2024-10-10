@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 Currently learning nextjs.
+🚀 Currently learning nextjs.<br>
 ❤️‍🔥 Grinding coding problems or atleast trying to.
 
 

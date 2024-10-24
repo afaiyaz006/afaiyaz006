@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ahmed faiyaz! 
 
 [![GitHub](https://img.shields.io/github/followers/afaiyaz006?label=Follow&style=social)](https://github.com/afaiyaz006)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=browser&logoColor=white)](https://YOURPORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-faiyaz-951797197/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=browser&logoColor=white)](https://afaiyaz.me)
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and learning new technologies. I enjoy working on a variety of projects, from **full-stack web development** to **open-source contributions**. 
 

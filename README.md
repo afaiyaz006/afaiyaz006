@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 🌱 Currently Learning
 
 - **Next.js** and **TypeScript** to enhance my front-end and full-stack skills.
-- **Machine Learning**: Exploring neural networks and deep learning with Python and TensorFlow.
+- **Machine Learning**: Exploring neural networks and deep learning with pytorch.
 
 ---
 

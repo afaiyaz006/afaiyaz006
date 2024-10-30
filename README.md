@@ -35,9 +35,13 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 👨‍💻 Open Source Projects
 
 Check out some of my open-source contributions and projects:
-- [Note Write](https://github.com/afaiyaz006/Note-Write):Small Ai based note writing app. 
-- [Kotha](https://github.com/afaiyaz006/Kotha): Lightweight Chat application using nextjs,react and socket io.
-
+| Name       | Description       |
+|----------------|----------------|
+| [Note Write](https://github.com/afaiyaz006/Note-Write) | Small Ai based note writing app.   | 
+| [Kotha](https://github.com/afaiyaz006/Kotha)  | Lightweight Chat application using nextjs,react and socket io. |
+| [MangoMedia](https://github.com/afaiyaz006/Mangomedia) | Small microblogging site using django  |
+| [Artnet](https://github.com/afaiyaz006/artnet) | Styletransfer based artwork sharing website built using django |
+| Procedural-City-OpenGL(https://github.com/afaiyaz006/Procedural-City-OpenGL) | Procedurally generated city scape using opengl,c++.|
 ---
 
 ## 📫 How to reach me:

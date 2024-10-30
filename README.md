@@ -41,7 +41,7 @@ Check out some of my open-source contributions and projects:
 | [Kotha](https://github.com/afaiyaz006/Kotha)  | Lightweight Chat application using nextjs,react and socket io. |
 | [MangoMedia](https://github.com/afaiyaz006/Mangomedia) | Small microblogging site using django  |
 | [Artnet](https://github.com/afaiyaz006/artnet) | Styletransfer based artwork sharing website built using django |
-| Procedural-City-OpenGL(https://github.com/afaiyaz006/Procedural-City-OpenGL) | Procedurally generated city scape using opengl,c++.|
+| [Procedural-City-OpenGL](https://github.com/afaiyaz006/Procedural-City-OpenGL) | Procedurally generated city scape using opengl,c++.|
 ---
 
 ## 📫 How to reach me:
